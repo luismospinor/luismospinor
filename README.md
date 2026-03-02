@@ -10,8 +10,8 @@ Right now, I am deep-diving into the Java ecosystem to deliver enterprise-grade 
 
 **Core & Frameworks:**
 <br>
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Databases & Persistence:**
 <br>
@@ -20,20 +20,14 @@ Right now, I am deep-diving into the Java ecosystem to deliver enterprise-grade 
 
 **Build Tools, Testing & DevOps:**
 <br>
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🚀 Featured Projects
 
 *Currently building my portfolio. Awesome backend projects using Java and Spring Boot are coming soon!*
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismospinor&show_icons=true&theme=radium&hide_border=true" alt="Luis's GitHub Stats" />
-</div>
 
 ## 📫 Let's Connect
 
