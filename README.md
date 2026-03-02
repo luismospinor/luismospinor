@@ -29,6 +29,12 @@ Right now, I am deep-diving into the Java ecosystem to deliver enterprise-grade 
 
 *Currently building my portfolio. Awesome backend projects using Java and Spring Boot are coming soon!*
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luismospinor&show_icons=true&theme=radium&hide_border=true" alt="Luis's GitHub Stats" />
+</div>
+
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on a project, talk about backend architecture, or just say hi!
